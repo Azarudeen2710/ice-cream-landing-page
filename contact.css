@@ -1,0 +1,34 @@
+.adrs{
+	font-family:papyrus;
+	font-weight:bold;
+	color:red;
+}
+.cnt{
+	font-family:arial;
+	font-weight:bold;
+	color:brown;
+}
+.mrq{
+	color:aqua;
+	background:#402c37;
+	padding:15px;
+}
+.bg{
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+}
+.a2
+{
+	color:yellow;
+}
+.a2:Active
+{
+color:yellow;}
+.ft_img{
+    margin-top: -350px;
+}
+.ft_align{
+    margin-top: -570px;
+}
+
